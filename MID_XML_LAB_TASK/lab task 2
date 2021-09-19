@@ -1,0 +1,32 @@
+<Admissions> 
+ <admission sr="01">
+ 
+ <slno> 23</id>
+ <name> john carter</name>
+ <admissiondate> 13/1/1999</unitprice>
+ 
+ 
+  </admission>
+ 
+ 
+ <admission >
+ 
+ <slno> 29</id>
+ <name> bob marshal</name>
+ <admissiondate> 25/12/2015</unitprice>
+ 
+ 
+  </admission>
+ 
+ <admission >
+ 
+ <slno> 35</id>
+ <name> clark kent</name>
+ <admissiondate> 17/6/2005</unitprice>
+ 
+ 
+  </admission>
+  </admissions>
+ 
+ 
+
