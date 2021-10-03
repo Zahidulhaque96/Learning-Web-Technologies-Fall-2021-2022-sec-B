@@ -1,0 +1,7 @@
+<?php
+function sum()
+{
+	return 1+5;
+}
+echo  sum();
+?>
